@@ -1,0 +1,12 @@
+Para crear un proyecto new
+         ng new mi-nuevo-proyecto-angular2      
+
+
+Modificar puerto para angular 2 , con el server qaue trae por defecto
+         ng serve --port 4201
+ 
+
+Crear nuevo componente desde raiz del proyecto
+         ng generate component nombre-del-componente                 
+         ng g component nombre-del-componente                 
+
